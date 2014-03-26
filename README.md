@@ -24,5 +24,19 @@ Install:
     make
 
 
+How to use:
+
+    cd RooUnfold-1.1.1
+    . /afs/cern.ch/sw/lcg/contrib/gcc/4.3/x86_64-slc5/setup.sh
+    . /afs/cern.ch/sw/lcg/app/releases/ROOT/5.32.00/x86_64-slc5-gcc43-opt/root/bin/thisroot.sh
+    r99t examples/RooUnfoldExample.cxx
+
+
+==
+
+where:
+
+    /home/amassiro/Latinos/TU/
+
 
 
